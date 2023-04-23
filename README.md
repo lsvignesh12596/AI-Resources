@@ -14,10 +14,6 @@
 
 6️⃣ [Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets) : Robotics Dataset Collections.
 
-# Other Resources
-
-7️⃣ [Check here](https://drive.google.com/drive/folders/1Ksdcadl9R1-DY2rMSgOaUHk7Z6kNDfGl?usp=share_link)
-
 
 
 # Hi, I'm Vignesh LS! 👋
