@@ -48,5 +48,5 @@ I'm a tech enthusiast with RPA and ML background. I work in the IT sector with e
 
 
 ## 🛠 Skills
-Python, SQL, MySQL, HTML, CSS, ML, NLP
+Python, SQL, MySQL, HTML, CSS, ML, NLP, UiPath, Power Automate, A360 (Automation Anywhere), Computer Vision
 
